@@ -3,9 +3,9 @@
 Python back-end developer
 
 Hard skills:
--Python OOP
--PyGame
--Flask
--SQL
+- Python OOP
+- PyGame
+- Flask
+- SQL
 
 No projects yet
