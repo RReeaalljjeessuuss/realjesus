@@ -1,2 +1,11 @@
 # realjesus
-я типа очень крутой и у меня много денег и типа очень умный поняли
+15 y.o
+Python back-end developer
+
+Hard skills:
+-Python OOP
+-PyGame
+-Flask
+-SQL
+
+No projects yet
