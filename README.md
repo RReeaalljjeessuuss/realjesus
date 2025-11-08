@@ -10,7 +10,7 @@ Hard skills:
 
 Soft Skills:
 - Available 24/7
-- Kind
 - Agreed to taking hard tasks
+- Communicative
 
 No projects yet
