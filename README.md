@@ -8,4 +8,9 @@ Hard skills:
 - Flask
 - SQL
 
+Soft Skills:
+- Available 24/7
+- Kind
+- Agreed to taking hard tasks
+
 No projects yet
